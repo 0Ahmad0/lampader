@@ -1,6 +1,6 @@
 # Lampader App
 
-Foobar is a Flutter Project contains a magic lamp and some animation.
+Lampader is a Flutter Project contains a magic lamp and some animation.
 
 ## Installation
 
